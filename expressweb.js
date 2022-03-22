@@ -1,4 +1,4 @@
-var sql = require('mssql');
+var sql = require('mysql');
 var config = {                           //和資料庫連結
   server: '140.131.7.188',  //update me
   user: 'sa', //update me
